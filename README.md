@@ -29,11 +29,11 @@ I help organisations modernise their workplace management by leveraging **Micros
 
 ## 📊 GitHub Fun Stats  
 
-![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudNativeLiam&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudNativeLiam&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CloudNativeLiam&theme=tokyonight)  
 
 ---
 
